@@ -1,5 +1,5 @@
 # Logstash Logfmt Parser Plugin
-[![Build Status](https://travis-ci.org/wheely/logstash-filter-logfmt.svg?branch=master)](https://travis-ci.org/wheely/logstash-filter-logfmt)
+[![Gem Version](https://badge.fury.io/rb/logstash-filter-logfmt.svg)](https://badge.fury.io/rb/logstash-filter-logfmt) [![Build Status](https://travis-ci.org/wheely/logstash-filter-logfmt.svg?branch=master)](https://travis-ci.org/wheely/logstash-filter-logfmt)
 
 
 This is a plugin for [Logstash](https://github.com/elasticsearch/logstash), allowing logstash to parse logfmt-formatted messages.
