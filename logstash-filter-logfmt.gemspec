@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.summary         = 'This filter may be used to decode Logfmt messages'
   s.description     = 'This gem is a logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/plugin install logstash-filter-logfmt. This gem is not a stand-alone program'
   s.authors         = ['Tim Buchwaldt', 'Aleksandr Zykov']
-  s.email           = 'tim.buchwaldt@grandcentrix.net'
-  s.homepage        = 'http://www.elastic.co/guide/en/logstash/current/index.html'
+  s.email           = 'alexandrz@gmail.com'
+  s.homepage        = 'https://github.com/alexandrz/logstash-filter-logfmt/'
   s.require_paths = ['lib']
 
   # Files
